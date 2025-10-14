@@ -1,0 +1,33 @@
+[
+  {
+    "image": "https://imgs.search.brave.com/UX31wPDLKkSILBlrdEFc0lUk9-rK89tH2siFH9Pn2yU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdlL1NpbHBhbmNo/b19jb2NoYWxvLmpw/Zw",
+    "name": "Silpancho",
+    "description": "Un plato contundente con carne de res empanizada, acompañada de arroz, huevo frito, papas hervidas y ensalada de tomate con cebolla.",
+    "price": 6.0
+  },
+  {
+    "image": "https://chipabythedozen.com/wp-content/uploads/2022/06/sopa-de-mani-boliviana.jpg",
+    "name": "Sopa de Maní",
+    "description": "Una sopa cremosa a base de maní, con carne de res, papas, arvejas y papas fritas, decorada con cilantro.",
+    "price": 4.5
+  },
+
+  {
+    "image": "https://imag.bonviveur.com/anticuchos-peruanos.jpg",
+    "name": "Anticucho",
+    "description": "Brochetas de corazón de res marinadas en especias, servidas con papas hervidas y una salsa a base de maní.",
+    "price": 3.5
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5qlrh2mUFeT160KypXoeYAqAGtnGX7sSJQ&s",
+    "name": "Chairo",
+    "description": "Una sopa tradicional hecha con cordero, chuño, maíz y varias verduras, sazonada con especias.",
+    "price": 5.0
+  },
+  {
+    "image": "https://lh6.googleusercontent.com/proxy/_5Y546el4btGb_Iy3iaanqwM5pKcYcppzTQTbwJvT-qmDUA04HAGVUUyx0rNUvn4YBjuTwBjl5TAUXPECtlVJoQHDZzDT9R4SxSJfoCoV2qolI-_vhYflm4So8ldRw",
+    "name": "Huminta",
+    "description": "Un pastel de maíz cocido al vapor o al horno, mezclado con queso y envuelto en hojas de choclo.",
+    "price": 2.5
+  }
+]
